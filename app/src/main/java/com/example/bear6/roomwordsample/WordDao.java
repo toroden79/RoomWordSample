@@ -1,3 +1,5 @@
+package com.example.bear6.roomwordsample;
+
 import android.arch.lifecycle.LiveData;
 import android.arch.persistence.room.Dao;
 import android.arch.persistence.room.Insert;

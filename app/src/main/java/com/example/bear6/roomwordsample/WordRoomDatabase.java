@@ -1,3 +1,5 @@
+package com.example.bear6.roomwordsample;
+
 import android.arch.persistence.room.Database;
 import android.arch.persistence.room.Room;
 import android.arch.persistence.room.RoomDatabase;
