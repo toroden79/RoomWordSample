@@ -1,4 +1,4 @@
-# Android1
+# RoomWordSample orginally from  Android1
 Initial Android App
 
 Current Stable version of Android Studio
@@ -33,3 +33,7 @@ https://git-scm.com/downloads
 git clone https://github.com/toroden79/Android1.git
 
 git clone https://github.com/toroden79/RoomWordSample.git
+
+============================================================================
+GUI to help visualize and manage GIT repos 
+https://www.sourcetreeapp.com/
