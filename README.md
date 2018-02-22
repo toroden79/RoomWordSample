@@ -37,3 +37,7 @@ git clone https://github.com/toroden79/RoomWordSample.git
 ============================================================================
 GUI to help visualize and manage GIT repos 
 https://www.sourcetreeapp.com/
+
+Notepad++
+https://notepad-plus-plus.org/download/v7.5.4.html
+
